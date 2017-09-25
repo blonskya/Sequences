@@ -1,6 +1,6 @@
 """
 This module shows how to ITERATE (i.e. loop) through a SEQUENCE
-in ways OTHER than just going thru the sequence from BEGINNING to END.
+in ways OTHER than just going through the sequence from BEGINNING to END.
 
 It also shows how to SELECT items in a sequence, e.g.:
   -- the items that are strings
@@ -12,11 +12,11 @@ is different from:
   -- LOOKING only at items AT even-numbered indices.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Andrew Blonsky.
+"""  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# TODO: 2. READ the program below and RUN it.
+# Done: 2. READ the program below and RUN it.
 #
 #   When you have read it, asking questions as needed,
 #   and you feel that you understand:
